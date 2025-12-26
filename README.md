@@ -52,7 +52,7 @@
 
 | **Project** | **Problem Solved** | **Tech Stack** |
 |:---|:---|:---|
-| **📊 [Employee-Management-System](https://github.com/jatin152116/Employee-Management-System-Java).** | Built a console-based system that can store employees data. (like name, department, salary)
+| **📊 [Employee-Management-System](https://github.com/jatin152116/Employee-Management-System-Java).** | **Built a console-based system that can store employees data. (like name, department, salary).** | **JAVA, MySQL, JDBC, VS Code** | 
 
 <div align="center">
 
