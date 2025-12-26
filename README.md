@@ -1,14 +1,14 @@
 <div align="center">
   
-  <img src="https://images.weserv.nl/?url=github.com/jatin152116.png&h=180&w=180&fit=cover&mask=circle&maxage=7d" width="180" height="180" alt="Jatin Kumar" />
+  <img src="https://images.weserv.nl/?url=https://github.com/jatin152116.png&h=180&w=180&fit=cover&mask=circle&maxage=7d" width="180" height="180" alt="Jatin Kumar" />
 
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&pause=1000&color=9D46FF&center=true&vCenter=true&width=435&lines=Jatin Kumar" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&pause=1000&color=9D46FF&center=true&vCenter=true&width=435&lines=Jatin-Kumar" alt="Typing SVG" />
   </a>
 
   <p>
-    <a href="https://vansh-dhall-portfolio.lovable.app/" target="_blank">
+    <a href="https://Jatin-Kumar-portfolio.lovable.app/" target="_blank">
       <img src="https://img.shields.io/badge/🚀_View_My-Portfolio-8A2BE2?style=for-the-badge&logo=framer&logoColor=white&labelColor=18181B" height="38" alt="Portfolio" />
     </a>
     &nbsp;&nbsp;
@@ -20,11 +20,11 @@
   <p>
     <img src="https://img.shields.io/badge/🔥_130%2B_Days-Learning_Streak-00f2ea?style=for-the-badge&labelColor=1a202c&color=008080" height="28" alt="Learning Streak" />
     &nbsp;&nbsp;
-    <a href="https://linkedin.com/in/vansh-dhall-703111363" target="_blank">
+    <a href="https://www.linkedin.com/in/jatin-kumar-bca" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" height="28" />
     </a>
     &nbsp;
-    <a href="mailto:vanshdhall918@gmail.com">
+    <a href="mailto:jatinjangir694@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail" height="28" />
     </a>
      &nbsp;
@@ -35,7 +35,7 @@
       </div>
       
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VanshD-7657&label=Profile%20Views&color=blue&style=flat" alt="view count"/>
+  <img src="https://komarev.com/ghpvc/?username=jatin152116&label=Profile%20Views&color=blue&style=flat" alt="view count"/>
 </p>
 
 ### 👨‍💻 About Me
@@ -82,6 +82,6 @@
     <code>⚡ Status: Upskilling Daily</code>
   </p>
   <h2 style="font-family: monospace">🏆 GitHub Trophies</h2>
-  <p> <img src="https://github-profile-trophy.vercel.app/?username=VanshD-7657&theme=radical&margin-w=10&margin-h=10" /> </p>
+  <p> <img src="https://github-profile-trophy.vercel.app/?username=jatin152116&theme=radical&margin-w=10&margin-h=10" /> </p>
 
 </div>
