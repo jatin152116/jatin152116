@@ -28,9 +28,6 @@
       <img src="https://skillicons.dev/icons?i=gmail" height="28" />
     </a>
      &nbsp;
-    <a href="http://kaggle.com/vanshdsci">
-      <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="35" alt="Kaggle" />
-    </a>
   </p>
       </div>
       
