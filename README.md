@@ -40,31 +40,19 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** Pursuing B.Tech in Computer Science (Data Science & AI Track)
-- 🔭 **I’m currently working on:** End-to-End Machine Learning Pipelines & Deployment
-- 🌱 **I’m currently learning:** Generative AI, LLMs, and System Design
+- 🎓 **Education:** Pursuing BCA in Computer Science (Software Engineer)
+- 🌱 **I’m currently learning:** Python
 - 💡 **Motto:** "Learning Every Day → Building Every Week → Improving Every Month"
-- ⚡ **Fun fact:** I love bridging the gap between raw data and actionable business insights.
+- ⚡ **Fun fact:** I like working on real-world problems more than theoretical ones
 
 
 ---
 
-### 🛠️ Technical Arsenal
-
-| **Category** | **Skills** |
-|:---:|:---|
-| **Languages** | Python, SQL |
-| **Technologies** | Machine Learning, Deep Learning, Natural Language Processing (NLP), Web Scraping |
-| **Frameworks & Libraries** | Scikit-learn, TensorFlow, Flask, MongoDB, MySQL |
-| **Developer Tools** | Git, GitHub, Microsoft Excel, Tableau |
-
----
 ### 🚀 Featured Projects
 
 | **Project** | **Problem Solved** | **Tech Stack** |
 |:---|:---|:---|
-| **🔒 [Network Security System](https://github.com/VanshD-7657/ML-OR-DL-Endt-to-End-Projects/tree/main/Network%20Security)** | Built an automated system to detect malicious URLs with **95% accuracy**, reducing manual review time. | `Python` `Scikit-learn` `AWS` |
-| **📊 [Student Analytics](https://github.com/VanshD-7657/ML-OR-DL-Endt-to-End-Projects/tree/main/Student%20Performance%20Predictor)** | Developed a regression pipeline to predict academic performance, deployed as a **real-time REST API**. | `CatBoost` `Flask` `Docker` |
+| **📊 [Employee-Management-System](https://github.com/jatin152116/Employee-Management-System-Java).** | Built a console-based system that can store employees data. (like name, department, salary)
 
 <div align="center">
 
@@ -77,8 +65,8 @@
   
   <br/>
   <p align="center" style="font-family: monospace; color: #9D46FF;">
-    <code>🎯 Goal: Senior Data Scientist</code> &nbsp;•&nbsp; 
-    <code>⏳ Started: June 2025</code> &nbsp;•&nbsp; 
+    <code>🎯 Goal: Software Engineer</code> &nbsp;•&nbsp; 
+    <code>⏳ Started: june 2024</code> &nbsp;•&nbsp; 
     <code>⚡ Status: Upskilling Daily</code>
   </p>
   <h2 style="font-family: monospace">🏆 GitHub Trophies</h2>
