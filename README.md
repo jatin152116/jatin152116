@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <a href="https://Jatin-Kumar-portfolio.lovable.app/" target="_blank">
+    <a href="https://jatin-kumar-portfolio.lovable.app/" target="_blank">
       <img src="https://img.shields.io/badge/🚀_View_My-Portfolio-8A2BE2?style=for-the-badge&logo=framer&logoColor=white&labelColor=18181B" height="38" alt="Portfolio" />
     </a>
     &nbsp;&nbsp;
