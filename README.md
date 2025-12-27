@@ -18,8 +18,6 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/🔥_130%2B_Days-Learning_Streak-00f2ea?style=for-the-badge&labelColor=1a202c&color=008080" height="28" alt="Learning Streak" />
-    &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/jatin-kumar-bca" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" height="28" />
     </a>
