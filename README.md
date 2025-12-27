@@ -9,7 +9,7 @@
 
   <p>
     <a href="https://jatin-kumar-portfolio.lovable.app/" target="_blank">
-      <img src="https://img.shields.io/badge/🚀_View_My-Portfolio-8A2BE2?style=for-the-badge&logo=framer&logoColor=white&labelColor=18181B" height="38" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=framer&logoColor=white&labelColor=8A2BE2" height="38" alt="Portfolio" />
     </a>
     &nbsp;&nbsp;
     <a href="https://drive.google.com/file/d/17nf5JUZoWOpYeVUpPGfRj3lL--1j6bdu/view?usp=sharing" target="_blank">
