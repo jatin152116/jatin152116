@@ -57,7 +57,7 @@
   
   <br/>
   <div align="center">
-  <img src="./progress_bar.svg" alt="35% Progress" width="80%">
+  🎯 Learning Journey: In Progress 🚀
   </div>
   
   <br/>
@@ -66,7 +66,5 @@
     <code>⏳ Started: june 2024</code> &nbsp;•&nbsp; 
     <code>⚡ Status: Upskilling Daily</code>
   </p>
-  <h2 style="font-family: monospace">🏆 GitHub Trophies</h2>
-  <p> <img src="https://github-profile-trophy.vercel.app/?username=jatin152116&theme=radical&margin-w=10&margin-h=10" /> </p>
 
 </div>
