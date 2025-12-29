@@ -22,7 +22,7 @@
       <img src="https://skillicons.dev/icons?i=linkedin" height="28" />
     </a>
     &nbsp;
-    <a href="mailto:jatinjangir694@gmail.com">
+    <a href="mailto:jatinjangir694@gmail.com" target="_blank">
       <img src="https://skillicons.dev/icons?i=gmail" height="28" />
     </a>
      &nbsp;
