@@ -35,7 +35,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** Pursuing BCA in Computer Science (Software Engineer)
+- 🎓 **Education:** Completed BCA in Computer Application.
 - 🌱 **I’m currently learning:** Python
 - 💡 **Motto:** "Learning Every Day → Building Every Week → Improving Every Month"
 - ⚡ **Fun fact:** I like working on real-world problems more than theoretical ones
